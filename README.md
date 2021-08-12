@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
 
-- 📫 How to reach me: You don't
+- I don't have any way you can reach me.
 
-- ⚡ Fun fact: I dont know how to code. I usually use stolen code. Why do I even have an account?
-
+- I dont know how to code. I usually use pieces of code I find in the internet.
